@@ -1,0 +1,16 @@
+#red{
+    background-color: red;
+    margin: 5px;
+    
+}
+#pink{
+    background-color:pink ;
+    margin: 5px;
+}
+#yellow{
+    background-color:yellow ;
+    margin: 5px;
+}
+.body{
+    align-content: center;
+}
